@@ -23,7 +23,9 @@ youtube dork queries for default file names
 * search for "periods and emojis" using autocomplete
 * iPhone: IMG_1234.MOV
 * GoPro: GOPR1234.MP4
-* 
+
+Never search this terms on your account. Go to incognito mode otherwise youtube algorithm can affect your account by showing inappropriate videos and ads.
+
 # Sites
 
 * https://default-filename-tv.neocities.org
